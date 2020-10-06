@@ -1,0 +1,4 @@
+secrets.env
+balances.csv
+savings.csv
+.venv/
