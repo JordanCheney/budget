@@ -6,4 +6,4 @@ export PLAID_ENV='development'
 export PLAID_PRODUCTS='transactions'
 export PLAID_COUNTRY_CODES='US'
 
-python balances.py
+python3 app.py
